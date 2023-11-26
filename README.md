@@ -1,1 +1,1 @@
-# Maze-Game-Java-
+# Maze-Game-Java
